@@ -44,10 +44,10 @@ class MultiLangManage {
 			$lang = $this->currentLang;
 		}
 		//Read Files
-		$handle = opendir(MULTILANG_PATH.'/Lang/'.$lang); 
+		$handle = opendir(MULTILANG_PATH.'/lang/'.$lang); 
 		while($file = readdir($handle)) { 
 			if (($file !== ".")and($file !== "..")) { 
-				require(MULTILANG_PATH.'/Lang/'.$lang.'/'.$file);
+				require(MULTILANG_PATH.'/lang/'.$lang.'/'.$file);
 			} 
 		} 
 		closedir($handle);
