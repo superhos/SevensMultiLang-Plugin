@@ -1,4 +1,4 @@
-# SevensMultiLang-Plugn
+# SevensMultiLang-Plugin
 >为了在我们现有系统中实现多语言功能，往往我们需要修改系统代码并且做更多额外的工作。为了解决这个问题，我在一个项目中提取了这个多语言插件并加以修改。你可以更容易在你的项目中实现多语言功能。
 
 [English Document](../../../README.md)
