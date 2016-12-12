@@ -1,4 +1,4 @@
-# SevensMultiLang-Plugn
+# SevensMultiLang-Plugin
 >In order to implement the multi-language feature in a exist system,we always have to rebuild the system and do a lot of job.
 To solve this problem, I have extracted a multi-language plugin from one of my project. You can implement multi-language feature 
 easily.
