@@ -45,7 +45,7 @@ After above configuration, you need to modify the view files for trigger the mul
 This is one of my file. I have set the slogen value in lang file before. And Then I use the ```mlang()``` function for getting
 the true value.
 # Change Language
-**SevensMultiLang-Plugn** provides a function call ```changeMlang``` for changing the current language.
+**SevensMultiLang-Plugn** provides a function call ```changeMlang``` function for changing the current language.
 
 # License
 `SevensMultiLang-Plugn` is licensed under [The MIT License (MIT)](LICENSE).
